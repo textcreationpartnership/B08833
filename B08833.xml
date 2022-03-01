@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter; written to one of the members of Parliament now sitting : wherein is contained a serious reflection, upon the fallacies and disingeniousness of the Army, in their seven unalterable fundamentals, lately published.  As also a seasonable caution to all governours, for their better securing themselves and the nation, from being made any more a prey to the lusts and wills of the Army and their adherents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659-1660?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08833</idno>
+            <idno type="STC">Wing C6176</idno>
+            <idno type="STC">ESTC R171525</idno>
+            <idno type="EEBO-CITATION">64551134</idno>
+            <idno type="OCLC">ocm 64551134</idno>
+            <idno type="VID">184495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184495)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter; written to one of the members of Parliament now sitting : wherein is contained a serious reflection, upon the fallacies and disingeniousness of the Army, in their seven unalterable fundamentals, lately published.  As also a seasonable caution to all governours, for their better securing themselves and the nation, from being made any more a prey to the lusts and wills of the Army and their adherents.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659 or 1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain $x History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:184495:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Copy of a LETTER;</hi> Written to one of the Members of Parliament now ſitting: Wherein is contained a ſerious reflection, upon the fal<g ref="char:EOLhyphen"/>lacies and diſingeniouſneſs of the Army, in their ſe<g ref="char:EOLhyphen"/>ven <hi>Unalterable Fundamentals,</hi> lately publiſhed. As alſo a ſeaſonable Caution to all Governours, for their better ſecuring themſelves and the Nation, from being made any more a prey to the lusts and will of the Army, and their Adherents.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately peruſed thoſe few Princi<g ref="char:EOLhyphen"/>ples, agreed on (as it was ſaid) by the Generall Councill of Officers, and publiſhed for the people's view, under the Title of, <hi>Vnalterable Fun<g ref="char:EOLhyphen"/>damentals;</hi> I thought it my duty, as a Member of this Common-wealth, to give in my ſenſe hereof, together with theſe Cautions following. Providence having ſo or<g ref="char:EOLhyphen"/>dered it, (I hope for the beſt) that after this ſecond, and therefore moſt ſhamefull defection of one part of the Ar<g ref="char:EOLhyphen"/>my, you are now in a hopefull way of being eſtabliſhed, in that fulneſs of power you have laid claim to, and I hope will improve, through grace, to the eſtabliſhment of the Laws of God and the Nation, and the vindication of the people from Oppreſſion and Tyranny. For God having done ſo much in mercy for you, it is now in the expectation of all men, what you in duty will do for him and his people.</p>
+            <p>Before I come to the Fundamentalls here mentioned, I ſhall premiſe this Quaerie touching the Authors there<g ref="char:EOLhyphen"/>of, Whether they are not the unfitteſt men to be makers of unalterable Fundamentalls, that have been the greateſt
+<pb n="2" facs="tcp:184495:2"/>Breakers of Fundamentalls themſelves, and ſuch too as were thought as Unalterable, as both by the conſent of the People, and the Wiſdom and authority of Gover<g ref="char:EOLhyphen"/>nours, could be effected.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt particular agreed on, for an unalterable Fun<g ref="char:EOLhyphen"/>damentall, is, <hi>That there ſhall be no Kingſhip exerciſed in theſe Nations.</hi> But becauſe I know not how to anſwer Tautoligies, I ſhall joyn this, and the Propoſition follow<g ref="char:EOLhyphen"/>ing together, <hi>viz.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>That they will not have any ſingle Perſon, to exerciſe the Of<g ref="char:EOLhyphen"/>fice of chief Magiſtrate in theſe Nations.</hi> For what is King<g ref="char:EOLhyphen"/>ſhip, but a ſingle Perſon exerciſing the Office of chief Magiſtrate in theſe Nations; and if there be no ſingle Per<g ref="char:EOLhyphen"/>ſon, there can be no King. To theſe two then I anſwer, It is not the Formall part in the word, <hi>King,</hi> or in that ſingle number, <hi>One,</hi> which hath been ſo long engaged againſt; but the Subſtantiall part, in that latitude of Power, and Arbitraines of Government, the Spirit and life of Tyranny; which, be it in one, or in two, or in twenty, is the ſame burden and oppreſſion, to the free born people of this Common-wealth. Monar<g ref="char:EOLhyphen"/>chy being rejected and laid aſide, rather as an opportu<g ref="char:EOLhyphen"/>nity and fitneſs for Tyranny to ſeat it ſelf in, than as Ty<g ref="char:EOLhyphen"/>ranny it ſelf; which doubtleſs may be found in any form, which is fartheſt diſtant from it, where Perſons are cor<g ref="char:EOLhyphen"/>rupt, and Laws be defective.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>That an Army may be continued, and be conducted, ſo as it may ſecure the Peace of theſe Nations; and not be disbanded, nor the Conduct thereof altered, but by conſent of the ſaid Conſervators appointed.</hi> I anſwer, That foraſmuch as Au<g ref="char:EOLhyphen"/>thority of it ſelf is but a name, and meer formall thing, without the ſoul and ſpirit of Government, which is ſtrength to compell, whatſoever Authority ſhall com<g ref="char:EOLhyphen"/>mand. Therefore I muſt aſſert theſe two Poſitions, as un<g ref="char:EOLhyphen"/>alterable Maxims.</p>
+            <p n="1">1. That the Parliament, which is owned as the Su<g ref="char:EOLhyphen"/>pream Authority of the Nation; and their Army, which, in truth, is the ſtrength and ſinues of this Authority, muſt be ſo much one, as that the Army, our of that inte<g ref="char:EOLhyphen"/>reſt and influence which the Parliament hath over it, by
+<pb n="3" facs="tcp:184495:2"/>way of neceſſity, muſt acknowledge and yield up thereunto the right, of giving definitive ſentence, and power of juding what is fit and reaſonable, for the people of this Nation, uſurped of late by part of the Army, and their Adherants.</p>
+            <p n="2">2. This muſt be done ſo really, without any more contra<g ref="char:EOLhyphen"/>diction or oppoſition, than any private man, who is not of the Army, ſhall uſe, in his own behalfe, who is onely paſ<g ref="char:EOLhyphen"/>ſive herein. Otherwiſe, to own any Supream Power above the Army, is a groſs contradiction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>That no impoſition may be upon the conſciences of them, that fear God.</hi> This, becauſe it is unalterable, it hath need to be more fully and plainly expreſſed; that is to ſay, That no impoſition ſhall be upon the conſciences of thoſe, whom the Supream Authority ſhall adjudge to fear God, and not what the Army ſhall determine herein.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>That their be no Houſe of Peers.</hi> Obſerve what care is ta<g ref="char:EOLhyphen"/>ken, to make up their Fundamentalls of words onely, that they may keep themſelves looſe in the things themſelves. It is not another Houſe they reſolve againſt, but a Houſe of Peers: 'Tis a Houſe of Lords, forſooth, and not a Houſe ſhall Lord it over us, that they will venture for ever to declare againſt. As long as they will not have a Houſe of Peers, although they have the ſame, and far greater power exerciſed in other perſons, and names, 'tis ſufficient and fair enough.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+               <hi>That the Legiſlative and Executive Powers ſhall be diſtinct, and not in the ſame hands.</hi> That any may ſee of what mettle their Fundamentalls are made of. This Sixth Propoſition hath broken the neck of the Fifth already; for there, they declare againſt a Houſe of Peers, and yet here, they ſay, they will have another Aſſembly diſtinct from the Parliament; to whom, if you give no more power than the Houſe of Peers had, then are they as needleſs as you<note n="*" place="margin">
+                  <hi>March 19. 1648.</hi> An Act for aboliſhing the Houſe of Peers.</note> Voted the Houſe of Peers to be: If you give them more power than the Houſe of Peers had, then what becomes of your priviledges of Par<g ref="char:EOLhyphen"/>liament? Then let me tell you, Your Rump (as they call it) is not worth a—</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+               <hi>That both the Aſſemblies of the Parliament ſhall be elected by the people of this Common-wealth, duly qualified.</hi> The Army ſhould have made one Fundamentall more, that is to ſay,
+<pb n="4" facs="tcp:184495:3"/>That the Army ſhould be for ever deemed, the onely duly qualified people of this Common-wealth; and then the next Fundamentall comes in plainly and ſincerely, without any fraud or jugling, <hi>viz. That both the Aſſemblies of the Palia<g ref="char:EOLhyphen"/>ment ſhall be elected by the people of this Common-wealth, duly qualified;</hi> that is to ſay, with Red-coats, Muskets, Swords, and Pikes. Otherwiſe, we have great cauſe to fear, that they who have ſo long aſſumed this Title, as peculiar to them<g ref="char:EOLhyphen"/>ſelves, will never diſclaim it at the election of Parlia<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Now, Sir, Fearing that Party, which hath ſo ſhamefully fallen away from you, hath yet too great an intereſt in many perſons among you; yea, ſeeing daily ſo many of them, as to outward appearance, admitted into grace and favour with the Parliament, and thorough the careleſneſſe of ſome, into places of chiefeſt truſt in this Common-wealth, I can<g ref="char:EOLhyphen"/>not but give you, as already a brief account of their <hi>unalte<g ref="char:EOLhyphen"/>rable Fundamentalls,</hi> ſo now, likewiſe a ſhort and ſeaſonable Caution for your future dealing with them.</p>
+            <p>It is no leſſe wiſe, then old ſaying, Firſt try, and then truſt; God hath given you a fair triall, both of your Friends and Enemies, if you make not aright advantage, Deſtruction will come upon you without pitty.</p>
+            <p>Take notice, there are many now, will come in unto you daily, compelled by neceſſity, not affection, who will by conſequence no longer remain with you, then that bond of neceſſity laſteth; Be well adviſed, concerning thoſe that have appeared againſt you, though now they cry you up ne<g ref="char:EOLhyphen"/>ver ſo loud, 'tis to do themſelves good, and not you, that they now carry a face of friendſhip towards you.</p>
+            <p>They will now be treating with you a pace, but treat with no more then you muſt needs; You are now able to ſtand upon your owne leggs, it will engage the Nation the more for you, the leſſe you comply with the Enemies of their Peace, their Religion, their Laws, and their Liberty: beſides, by this means you pay the Defected party all their Arrears, without putting the Nation to any further charge, which wil be accounted as a juſt puniſhment upon them, who have in<g ref="char:EOLhyphen"/>terrupted you; and in you a fatherly care, and provident re<g ref="char:EOLhyphen"/>ſpect to the purſes of the People, (ſo much already exhau<g ref="char:EOLhyphen"/>ſted)
+<pb n="5" facs="tcp:184495:3"/>which they will draw the freelier, (as being the better able) to pay off all thoſe that have been inſtruments of your re-eſtabliſhment; Remember what Principles they are of, and then conſider, what faith they are like to keep with you.</p>
+            <p>As firſt, they do affirm, <hi>That Lawes, Acts, and Statutes,</hi>
+               <note place="margin">
+                  <hi>vid.</hi> Army's Plea for their preſent Practiſe</note> 
+               <hi>are binding or not binding, as they appear to the Army, to relate or conduce to common and publick right or wrong,</hi> pag. 3.</p>
+            <p n="2">2. <hi>They abſolve the Common-wealth from their obligations to your Laws, which they ſhall adjudge to be deſtructive to their intereſt and advantage,</hi> ibid.</p>
+            <p n="3">3. <hi>That as all Lawes, Statutes, Acts, and Ordinances; ſo all Covennants, Engagements, Promiſes, and Proteſtations; all Ac<g ref="char:EOLhyphen"/>knowledgments, Subſcriptions, Vows, and Oaths; all and all manner of Obligations and Expreſſions thereof, are onely binding unto the Publick ſafety, not at all to the perſons of Governonrs, or Governments, but with reference thereunto.</hi> Of which Pub<g ref="char:EOLhyphen"/>lick ſafety, theſe men have affirmed, <hi>That it belongs to them<g ref="char:EOLhyphen"/>ſelves, whom they call the People, and not to the Parliament, who are their Governours, to judge of,</hi> which their late proceedings do ſufficiently teſtifie. <hi>pag.</hi> 4.</p>
+            <p n="4">4. <hi>That the Souldiery may lawfully hold the hands of their Generall, if they ſhall ſay, he turns the Canon againſt them;</hi> though it appear to their Generall, and all the world beſides, he doth not ſo, <hi>pag.</hi> 6.</p>
+            <p n="5">5. <hi>That it is no reſiſtance of Magiſtracy, for an Army to pre<g ref="char:EOLhyphen"/>ſerve the publick, naturall, and undoubted rights of the People, againſt their lawfull Magiſtrates,</hi> pag. 6.</p>
+            <p n="6">6. <hi>That they ought not to deliver the Sword out of their hands, for the ſacrificing of that cauſe, which God, by his Pro<g ref="char:EOLhyphen"/>vidence, hath put into their hands, for its protection and de<g ref="char:EOLhyphen"/>fence,</hi> pag. 23.</p>
+            <p n="7">7. <hi>That the making of an inconditionate Promiſe and En<g ref="char:EOLhyphen"/>gagement, is ſin; and that the keeping of it is ſin alſo,</hi> pag. 24.</p>
+            <p n="8">8. <hi>That the Parliament are not proper Judges of what is con<g ref="char:EOLhyphen"/>venient to he done for common intereſt, in the caſe of the Souldie<g ref="char:EOLhyphen"/>ry, but that common in ereſt muſt be the onely judge,</hi> pag 26.</p>
+            <p n="9">9. <hi>That though in other caſes you are the onely Judges, as in that of</hi> Sir George Booth; <hi>yet, in their caſes, you are not to be Judges, as in that of the nine Officers of the Army,</hi> pag. 27.</p>
+            <pb n="6" facs="tcp:184495:4"/>
+            <p n="10">10. <hi>That by a Parliament muſt be meant the Major part of a Parliament, and not the Minor,</hi> pag. 28.</p>
+            <p n="11">11. <hi>That they may as well be Judges to turn you out of the Houſe, as they were allowed to be Judges, to turn the Major part out before,</hi> pag. 29.</p>
+            <p n="12">12. And laſtly, I ſhall cite you this one more out of their Declaration, <hi>Octob.</hi> 27. 1659. viz. <hi>That the People, by electing Members to repreſent them in Parliament, had cut that Knot with their own Sword, which by no other waies was capable to be diſſolved or broken.</hi>
+            </p>
+            <p>Out of this brief Collection, you may eaſily inform your ſelfe, what obedience they are like to give, what faith they are like to keep, and what ſafety you are like to have among this diſobedient, and faithleſſe crew of Mutiners; who owning no other Law then their owne Will, no other pow<g ref="char:EOLhyphen"/>er then their owne Sword, will never become ſubject to the Lawes of the Nation, or the ſword of the Magiſtrate, untill the body of them ſhall be diſſolved into their firſt Princi<g ref="char:EOLhyphen"/>palls.</p>
+            <p>Nor can I think, I leave you ſafe here, without putting you in mind of thoſe their adherents, whom they call the Sectaries; Theſe indeed are the men, have effected your in<g ref="char:EOLhyphen"/>terruption more then any, oppoſing your <hi>Principles</hi> as much as your <hi>Power.</hi> Who thorough ſome men's Careleſneſſe, and their own Diligence, have crept unawares into the moſt conſiderable places, both of Truſt, and Power in theſe Na<g ref="char:EOLhyphen"/>tions; And who could not but read your Deſtiny, that be<g ref="char:EOLhyphen"/>held this over-ſight in you. Grow wiſe, then by Experi<g ref="char:EOLhyphen"/>ence, and Remember to put thoſe into places of Truſt and Power, that are of your owne principles; This is your Duty, your Honour, your Safety, your Intereſt. And you have good reaſon to believe, that they that think themſelves above the Ordinances of God, will never cordially ſubmit to the Ordinances of Man. Religion among thoſe that are zealous, is counted their chief intereſt, for this they will not ſtick to venture their Eſtates, their Reputation, and all that is dear unto them; ſo that their ſhall be neither Oath, nor Covenant, nor Promiſes, but this like the Pope, ſhall be alwaies ready, with ſome to give them a diſpenſation who 'tis feared, have too many among them of the Jeſuits crew,
+<pb n="7" facs="tcp:184495:4"/>who will eaſily diſpute them into this belief, that they do God good ſervice, (when occaſion ſhall ſerve) to keep no faith with you, whom they eſteem as Heretiques.</p>
+            <p>Men of different principles, can never unite at the heart, though with flattering Lips, and a double Tongue, they may ſpeak every one to his Neighbour, yet they will diſco<g ref="char:EOLhyphen"/>ver themſelves in their proper ſeaſons.</p>
+            <p>Divide not the victory with them, who would fain get a hank upon the Government, not that they intend to be with you any longer, then under your ſhadow, and preſent pro<g ref="char:EOLhyphen"/>tection; they may provide for themſelves, and their friends ſafety, till in time they may grow up, to over-top you again, (as ill weeds grow apare). What ever leaves they may now put forth, their naturall fruits will not bear proportion to.</p>
+            <p>And now I hope, having known what it is to be kept out of the houſe your ſelves, and having made ſuch bitter com<g ref="char:EOLhyphen"/>plaints againſt them that were your Diſturbers; Now I ſay, I hope you will pitty your brethren of the Long Parliament, and not do to them, as you would not have others do unto you: Though they are not <hi>Majores natu,</hi> yet they are <hi>Ma<g ref="char:EOLhyphen"/>jores numero,</hi> to whom the birth right, in the naturall courſe of the Law, undoubtedly belongeth. The very eſſence of former Parliaments, and what is it indeed among your ſelves? what is it among every private Committee, or meeting of men of Authority, that challengeth to it ſelfe the Authority of doing, without any contradiction; but the greater number: till you acknowledge your backſlidings in full, as the Army did theirs but in part, and call in the Major part of the houſe, as they did the Minor part onely, till your Repentance be unfained, and your Reformation perfect, you will never be eſtabliſhed in the peoples <hi>Love,</hi> and what ſecurity can you have in the peoples <hi>Fear?</hi> which muſt be maintained by the power of an Armies inconſtancy, who can with the ſame breath, both bleſſe, and curſe their Maſters.</p>
+            <p>God hath ſet you once more in your places, it may be, to ſee if you will ſet others in theirs alſo. Remember your Repentance in the day of your diſtreſſe; There were ſome of you, when the Army had turned you out, condemned your ſelves for not taking the reſt of your fellow Members
+<pb n="8" facs="tcp:184495:5" rendition="simple:additions"/>in. As the Army gave you that Opportunity, to ſee your faults, ſo God hath now given you his opportunity, wherein you may mend them.</p>
+            <p>Do not then falſly imagine your ſelves at your journies end, nor take up your reſt in your imperfect number; but know that you are not ſet up as the ſummary end, and per<g ref="char:EOLhyphen"/>fection of Government, but onely as a fit opportunity, and probable way, wherein a more perfect Government may be obtained and eſtabliſhed; which, as it is your duty to en<g ref="char:EOLhyphen"/>deavour to effect, ſo it will be your chiefeſt glory to bring to Perfection.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
